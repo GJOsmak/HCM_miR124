@@ -1,0 +1,47 @@
+Node;Neighbors;Weight
+hsa-mir-27a-3p;['TPM3', 'ACE2', 'SFRP1', 'CENPA', 'SERPINA3', 'LMOD2', 'THBS4', 'CLIC6', 'RASL11B'];7.372607936507923
+hsa-mir-335-5p;['SFRP1', 'SERPINA3', 'CA3', 'SMOC2', 'RASD1', 'PROS1'];4.899961904761895
+hsa-mir-1-3p;['TPM3', 'SFRP1', 'CENPA', 'CA3', 'PIK3IP1', 'PROS1'];4.741430158730149
+hsa-mir-1343-3p;['SFRP1', 'S100A9', 'SERPINA3', 'RASD1', 'PROS1'];4.205606349206342
+hsa-mir-10b-5p;['TPM3', 'ACE2', 'SFRP1', 'CENPA', 'PROS1'];4.185071428571421
+hsa-mir-23b-3p;['TPM3', 'CENPA', 'SERPINA3', 'CA3', 'FRZB'];3.874684126984118
+hsa-mir-124-3p;['SFRP1', 'CENPA', 'SERPINA3', 'PROS1'];3.3702825396825333
+hsa-mir-146a-5p;['SFRP1', 'THBS4', 'SMOC2', 'RASD1'];3.368622222222216
+hsa-mir-429;['ACE2', 'S100A9', 'SMOC2', 'RASD1'];3.367128571428565
+hsa-mir-20a-5p;['S100A9', 'SERPINA3', 'RASD1', 'RASL11B'];3.367128571428565
+hsa-let-7b-5p;['CENPA', 'SERPINA3', 'PIK3IP1', 'PROS1'];3.246353968253962
+hsa-mir-191-5p;['CENPA', 'RASD1', 'PROS1'];2.5318047619047572
+hsa-mir-671-5p;['S100A9', 'SERPINA3', 'RASD1'];2.523193650793646
+hsa-mir-101-3p;['S100A9', 'THBS4', 'RASD1'];2.5215333333333287
+hsa-mir-7-5p;['TPM3', 'CENPA', 'RASD1'];2.5026587301587253
+hsa-mir-128-3p;['TPM3', 'CENPA', 'PROS1'];2.5026587301587253
+hsa-mir-106a-5p;['TPM3', 'RASD1', 'RASL11B'];2.5026587301587253
+hsa-mir-182-5p;['TPM3', 'SERPINA3', 'PROS1'];2.5026587301587253
+hsa-mir-16-5p;['TPM3', 'CENPA', 'PROS1'];2.5026587301587253
+hsa-mir-522-5p;['TPM3', 'SFRP1', 'CENPA'];2.4972015873015825
+hsa-mir-330-3p;['TPM3', 'S100A9', 'RASL11B'];2.494047619047614
+hsa-mir-200c-3p;['RASD1', 'CLIC6', 'PROS1'];2.4864222222222176
+hsa-mir-129-2-3p;['CENPA', 'PIK3IP1', 'PROS1'];2.402419047619043
+hsa-let-7i-5p;['CENPA', 'SERPINA3', 'PIK3IP1'];2.402419047619043
+hsa-let-7g-5p;['CENPA', 'SERPINA3', 'PIK3IP1'];2.402419047619043
+hsa-let-7f-5p;['CENPA', 'SERPINA3', 'PIK3IP1'];2.402419047619043
+hsa-let-7a-5p;['CENPA', 'SERPINA3', 'PIK3IP1'];2.402419047619043
+hsa-mir-27a-5p;['SFRP1', 'PIK3IP1', 'PROS1'];2.3969619047619
+hsa-mir-30d-5p;['SERPINA3', 'FRZB', 'RASD1'];2.3741507936507884
+hsa-mir-133a-3p;['TPM3', 'ACE2', 'PIK3IP1'];2.3732730158730115
+PROS1;['hsa-mir-16-5p', 'hsa-mir-10b-5p', 'hsa-mir-1-3p', 'hsa-mir-335-5p', 'hsa-mir-27a-5p', 'hsa-let-7b-5p', 'hsa-mir-129-2-3p', 'hsa-mir-124-3p', 'hsa-mir-1343-3p', 'hsa-mir-191-5p', 'hsa-mir-200c-3p', 'hsa-mir-128-3p', 'hsa-mir-182-5p'];0.843934920634919
+RASD1;['hsa-mir-146a-5p', 'hsa-mir-335-5p', 'hsa-mir-1343-3p', 'hsa-mir-106a-5p', 'hsa-mir-20a-5p', 'hsa-mir-30d-5p', 'hsa-mir-101-3p', 'hsa-mir-191-5p', 'hsa-mir-200c-3p', 'hsa-mir-429', 'hsa-mir-671-5p', 'hsa-mir-7-5p'];0.843934920634919
+SMOC2;['hsa-mir-146a-5p', 'hsa-mir-335-5p', 'hsa-mir-429'];0.843934920634919
+SERPINA3;['hsa-mir-27a-3p', 'hsa-mir-23b-3p', 'hsa-mir-335-5p', 'hsa-let-7a-5p', 'hsa-let-7b-5p', 'hsa-let-7f-5p', 'hsa-let-7g-5p', 'hsa-let-7i-5p', 'hsa-mir-124-3p', 'hsa-mir-1343-3p', 'hsa-mir-20a-5p', 'hsa-mir-30d-5p', 'hsa-mir-671-5p', 'hsa-mir-182-5p'];0.843934920634919
+RASL11B;['hsa-mir-27a-3p', 'hsa-mir-106a-5p', 'hsa-mir-20a-5p', 'hsa-mir-330-3p'];0.843934920634919
+CENPA;['hsa-mir-16-5p', 'hsa-mir-27a-3p', 'hsa-mir-10b-5p', 'hsa-mir-1-3p', 'hsa-mir-23b-3p', 'hsa-let-7a-5p', 'hsa-let-7b-5p', 'hsa-let-7f-5p', 'hsa-let-7g-5p', 'hsa-let-7i-5p', 'hsa-mir-129-2-3p', 'hsa-mir-124-3p', 'hsa-mir-522-5p', 'hsa-mir-191-5p', 'hsa-mir-7-5p', 'hsa-mir-128-3p'];0.843934920634919
+ACE2;['hsa-mir-27a-3p', 'hsa-mir-10b-5p', 'hsa-mir-133a-3p', 'hsa-mir-429'];0.843934920634919
+THBS4;['hsa-mir-27a-3p', 'hsa-mir-146a-5p', 'hsa-mir-101-3p'];0.8422746031746017
+SFRP1;['hsa-mir-27a-3p', 'hsa-mir-10b-5p', 'hsa-mir-1-3p', 'hsa-mir-146a-5p', 'hsa-mir-335-5p', 'hsa-mir-27a-5p', 'hsa-mir-124-3p', 'hsa-mir-522-5p', 'hsa-mir-1343-3p'];0.8384777777777762
+S100A9;['hsa-mir-1343-3p', 'hsa-mir-20a-5p', 'hsa-mir-101-3p', 'hsa-mir-429', 'hsa-mir-671-5p', 'hsa-mir-330-3p'];0.8353238095238079
+TPM3;['hsa-mir-16-5p', 'hsa-mir-27a-3p', 'hsa-mir-10b-5p', 'hsa-mir-1-3p', 'hsa-mir-23b-3p', 'hsa-mir-133a-3p', 'hsa-mir-522-5p', 'hsa-mir-106a-5p', 'hsa-mir-7-5p', 'hsa-mir-128-3p', 'hsa-mir-330-3p', 'hsa-mir-182-5p'];0.8147888888888872
+CLIC6;['hsa-mir-27a-3p', 'hsa-mir-200c-3p'];0.7985523809523797
+PIK3IP1;['hsa-mir-1-3p', 'hsa-mir-133a-3p', 'hsa-mir-27a-5p', 'hsa-let-7a-5p', 'hsa-let-7b-5p', 'hsa-let-7f-5p', 'hsa-let-7g-5p', 'hsa-let-7i-5p', 'hsa-mir-129-2-3p'];0.7145492063492049
+LMOD2;['hsa-mir-27a-3p'];0.7027746031746014
+FRZB;['hsa-mir-23b-3p', 'hsa-mir-30d-5p'];0.6862809523809505
+CA3;['hsa-mir-1-3p', 'hsa-mir-23b-3p', 'hsa-mir-335-5p'];0.6857444444444425
